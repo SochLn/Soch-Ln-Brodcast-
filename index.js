@@ -23,7 +23,7 @@ client.on("ready", () => {
   client.user.setActivity(`بيوي و حكسر بس`);
   client.user.setStatus("idle");
 });
-const owners = ["352460871856947200", "527826654660132890"]
+const owners = ["352460871856947200", "527826654660132890" . "665309785544982531"]
 var prefix = "-"; 
 
 client.on("message", async message => {
